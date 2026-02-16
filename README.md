@@ -1,45 +1,51 @@
 # 🚀 NeetCode 250 – Python Solutions
 
-This repository contains my solutions to the **NeetCode 250** problem set using Python.
+This repository contains my solutions to the **NeetCode 250** problem set.
 
-The purpose of this repository is to:
+The goal of this repository is not just to complete 250 problems, but to master core problem-solving patterns used in technical interviews.
 
-- Strengthen Data Structures & Algorithms fundamentals
-- Improve problem-solving consistency
-- Prepare for technical interviews
-- Write clean and optimized Python code
+Language: Python 3
 
 ---
 
-## 🛠 Language
+## 📚 Problem Categories
 
-Python 3
+The problems are organized by pattern:
 
----
-
-## 📂 Structure
-
-Problems are organized by topic:
-
-- Arrays
-- Strings
-- Linked List
+- Arrays & Hashing
+- Two Pointers
+- Sliding Window
 - Stack
 - Binary Search
+- Linked List
 - Trees
-- Graphs
-- Backtracking
 - Heap / Priority Queue
-- Dynamic Programming
+- Backtracking
+- Tries
+- Graphs
+- Advanced Graphs
+- 1-D Dynamic Programming
+- 2-D Dynamic Programming
+- Greedy
+- Intervals
+- Math & Geometry
+- Bit Manipulation
 
-Each problem includes:
-- Clean implementation
-- Optimized approach
-- Time and space complexity (when relevant)
+Each folder corresponds to one of these patterns.
 
 ---
 
-## 📈 Progress
+## 🎯 Objectives
+
+- Build strong pattern recognition
+- Transition from brute force to optimal solutions
+- Write clean and readable Python code
+- Improve time and space complexity analysis
+- Prepare for technical interviews
+
+---
+
+## 📈 Progress Tracker
 
 Total Problems: 250  
 Solved: 0 / 250  
@@ -48,19 +54,21 @@ Progress will be updated consistently.
 
 ---
 
-## 🎯 Objective
+## 🧠 Approach
 
-- Master pattern recognition
-- Transition from brute force to optimal solutions
-- Improve coding speed and clarity
-- Build strong interview confidence
+For each problem:
+
+1. Understand the brute-force approach
+2. Derive the optimized solution
+3. Analyze time and space complexity
+4. Refactor for clarity
 
 ---
 
-## 🧠 Philosophy
+## 💡 Philosophy
 
 Consistency > Motivation  
 Understanding > Memorization  
 Discipline > Excuses  
 
-This repository is a long-term commitment to improvement.
+This repository documents long-term improvement, not shortcuts.
