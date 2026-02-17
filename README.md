@@ -48,7 +48,7 @@ Each folder corresponds to one of these patterns.
 ## 📈 Progress Tracker
 
 Total Problems: 250  
-Solved: 0 / 250  
+Solved: 1 / 250  
 
 Progress will be updated consistently.
 
