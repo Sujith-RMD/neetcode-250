@@ -2,34 +2,44 @@
 
 This repository contains my solutions to the **NeetCode 250** problem set.
 
-The goal of this repository is not just to complete 250 problems, but to master core problem-solving patterns used in technical interviews.
+The goal is not just to complete 250 problems, but to deeply understand the core patterns used in technical interviews and build strong problem-solving fundamentals.
 
-Language: Python 3
+**Language:** Python 3
+
+---
+
+## 📈 Progress Tracker
+
+- Total Problems: 250  
+- Solved: 5 / 250  
+- Completion: 2%
+
+Progress is updated after every solved problem.
 
 ---
 
 ## 📚 Problem Categories
 
-The problems are organized by pattern:
+Problems are organized by pattern:
 
-- Arrays & Hashing
-- Two Pointers
-- Sliding Window
-- Stack
-- Binary Search
-- Linked List
-- Trees
-- Heap / Priority Queue
-- Backtracking
-- Tries
-- Graphs
-- Advanced Graphs
-- 1-D Dynamic Programming
-- 2-D Dynamic Programming
-- Greedy
-- Intervals
-- Math & Geometry
-- Bit Manipulation
+- Arrays & Hashing  
+- Two Pointers  
+- Sliding Window  
+- Stack  
+- Binary Search  
+- Linked List  
+- Trees  
+- Heap / Priority Queue  
+- Backtracking  
+- Tries  
+- Graphs  
+- Advanced Graphs  
+- 1-D Dynamic Programming  
+- 2-D Dynamic Programming  
+- Greedy  
+- Intervals  
+- Math & Geometry  
+- Bit Manipulation  
 
 Each folder corresponds to one of these patterns.
 
@@ -37,20 +47,11 @@ Each folder corresponds to one of these patterns.
 
 ## 🎯 Objectives
 
-- Build strong pattern recognition
-- Transition from brute force to optimal solutions
-- Write clean and readable Python code
-- Improve time and space complexity analysis
-- Prepare for technical interviews
-
----
-
-## 📈 Progress Tracker
-
-Total Problems: 250  
-Solved: 5 / 250  
-
-Progress will be updated consistently.
+- Develop strong pattern recognition  
+- Transition from brute-force to optimal solutions  
+- Write clean and readable Python code  
+- Master time and space complexity analysis  
+- Build consistency in problem-solving  
 
 ---
 
@@ -58,10 +59,10 @@ Progress will be updated consistently.
 
 For each problem:
 
-1. Understand the brute-force approach
-2. Derive the optimized solution
-3. Analyze time and space complexity
-4. Refactor for clarity
+1. Understand the brute-force approach  
+2. Derive the optimized solution  
+3. Analyze time and space complexity  
+4. Refactor for clarity  
 
 ---
 
@@ -71,4 +72,4 @@ Consistency > Motivation
 Understanding > Memorization  
 Discipline > Excuses  
 
-This repository documents long-term improvement, not shortcuts.
+This repository documents long-term growth, not shortcuts.
