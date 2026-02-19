@@ -11,8 +11,8 @@ The goal is not just to complete 250 problems, but to deeply understand the core
 ## 📈 Progress Tracker
 
 - Total Problems: 250  
-- Solved: 5 / 250  
-- Completion: 2%
+- Solved: 7 / 250  
+- Completion: 2.8%
 
 Progress is updated after every solved problem.
 
